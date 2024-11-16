@@ -1,0 +1,6 @@
+@samplecrudapi_HostAddress = http://localhost:5217
+
+GET {{samplecrudapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
